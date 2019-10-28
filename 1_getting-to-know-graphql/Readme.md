@@ -44,4 +44,18 @@ query {
 
 9. Create reusable insert mutation called addPost, which not only will insert a post, but create new user and profile
 
+```graphql
+mutation addPost($title:String!, $content: String!, $user: users_insert_input!){
+  insert_posts(objects: {
+    title:$title
+    content:$content
+    user: {
+      data: $user
+    }
+  }) {
+    affected_rows
+  }
+}
+```
+
 
