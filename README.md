@@ -29,3 +29,9 @@ We will learn about various Architecture patterns in GraphQL as well as how to u
 
 We will create full blown todo app together by following step by step tutorial
 
+
+# Resources
+
+- [learn.hasura.io](learn.hasura.io)
+- @VladimirNovick
+- [https://youtube.com/c/VladimirNovickDev](https://youtube.com/c/VladimirNovickDev)
