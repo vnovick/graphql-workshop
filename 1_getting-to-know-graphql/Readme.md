@@ -3,7 +3,7 @@
 For this excercise we will use two endpoints: 
 
 - [Starwars API](https://graphql.org/swapi-graphql/)
-- [Blog posts api](https://graphql-workshop-react.herokuapp.com/v1/graphql) Use it with [GraphiQL online](https://graphiql-online.com/graphiql)
+- [Blog posts api](https://graphql-workshop-react.herokuapp.com/v1/graphql) Use it with [GraphiQL online](https://graphiql-online.com/)
 - [Github api](https://developer.github.com/v4/explorer/)
 
 > Tip: You can use [GraphiQL online for Explorer feature](https://graphiql-online.com/)
