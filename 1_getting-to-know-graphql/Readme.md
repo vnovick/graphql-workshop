@@ -2,7 +2,7 @@
 
 For this excercise we will use two endpoints: 
 
-- [Starwars API](https://graphql-bootcamp-swapi.herokuapp.com/)
+- [Starwars API](https://graphql.org/swapi-graphql/)
 - [Blog posts api](https://graphql-workshop-react.herokuapp.com/v1/graphql) Use it with [GraphiQL online](https://graphiql-online.com/graphiql)
 - [Github api](https://developer.github.com/v4/explorer/)
 
