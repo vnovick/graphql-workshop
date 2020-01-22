@@ -6,7 +6,7 @@ https://codesandbox.io/s/graphql-workshop-starter-8fhd2
 
 1. Add ApolloClient from 'apollo-boost'
 2. Add ApolloProvider to wrap your app
-3. use `useQuery` to get posts that you've created
+3. use `useQuery` to get posts from excercise1 blog post api
 4. use `useMutation` to submit a form for adding a new user
 5. use `refetchQueries` to get component reloaded
 
