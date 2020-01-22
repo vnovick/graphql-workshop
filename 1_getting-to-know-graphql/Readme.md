@@ -46,15 +46,7 @@ query {
 
 ```graphql
 mutation addPost($title:String!, $content: String!, $user: users_insert_input!){
-  insert_posts(objects: {
-    title:$title
-    content:$content
-    user: {
-      data: $user
-    }
-  }) {
-    affected_rows
-  }
+  // Your solution
 }
 ```
 
