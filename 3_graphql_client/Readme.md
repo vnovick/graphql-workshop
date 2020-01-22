@@ -26,12 +26,12 @@ import {getMainDefinition} from 'apollo-utilities';
 
 // Create an http link:
 const httpLink = new HttpLink({
-  uri: 'https://whatsapp-workshop.herokuapp.com/v1/graphql',
+  uri: 'https://graphql-endpoint-url',
 });
 
 // Create a WebSocket link:
 const wsLink = new WebSocketLink({
-  uri: `ws://whatsapp-workshop.herokuapp.com/v1/graphql`,
+  uri: `ws://graphql-endpoint-url`,
   options: {
     reconnect: true,
   },
