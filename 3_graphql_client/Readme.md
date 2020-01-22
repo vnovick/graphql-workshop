@@ -2,7 +2,7 @@
 
 - Fork the following CodeSandbox:
 
-[https://codesandbox.io/s/graphql-workshop-starter-8fhd2]
+https://codesandbox.io/s/graphql-workshop-starter-8fhd2
 
 1. Add ApolloClient from 'apollo-boost'
 2. Add ApolloProvider to wrap your app
