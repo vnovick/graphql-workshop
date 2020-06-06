@@ -9,6 +9,6 @@
   "author": "Vladimir Novick",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.9.7"
+    "apollo-server": "^2.14.2"
   }
 }
